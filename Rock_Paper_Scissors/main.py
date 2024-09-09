@@ -8,7 +8,7 @@ import random
 #Function that gets a choice
 def get_choices():
     #Player input is required
-    player_choice = input("Enter a choice: ")
+    player_choice = input("Enter a choice: ").lower()
 
     #List of possible options
     options = ["rock","paper","scissors"]
