@@ -1,6 +1,3 @@
-Here's a simple README you can include for your GitHub repository:
-
----
 
 # Rock, Paper, Scissors Game
 
